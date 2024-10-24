@@ -1,0 +1,38 @@
+/* font-size: 6.5vmin;
+line-height: 5.5vmin;
+color: #f9ea16; */
+/* 
+.logo-call {
+  font-size: 3.5vmin;
+  line-height: 1.5vmin;
+  color: #f9ea16;
+} */
+
+/* 
+
+.burger-blurb {
+  display: block;
+  font-size: 2vmin;
+  color: #fff;
+} */
+
+/* more custom styles at the bottom of style.css */
+
+.navbar-light .navbar-brand {
+  color: #fffbc7;
+  line-height: 3vmin;
+}
+
+.navbar-brand {
+  font-size: 1.95rem !important;
+}
+
+.banner_taital {
+  padding-top: 16vh;
+}
+
+.icon-lightbulb {
+  font-size: 11vmin;
+  float: left;
+  padding: 0 4vmin 0 2vmin;
+}
